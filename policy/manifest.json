@@ -5,8 +5,8 @@
  "alg": "ES256",
  "body": {
   "pid": "dup-main",
-  "seq": 2,
-  "iat": 1792495708,
+  "seq": 3,
+  "iat": 1792498231,
   "ttl": 604800,
   "sid": "VB23kBO53G-pNQjL",
   "kdf": {
@@ -14,6 +14,12 @@
   },
   "buckets": 16,
   "shards": {
+   "s-02": {
+    "q": 3
+   },
+   "s-05": {
+    "q": 3
+   },
    "s-08": {
     "q": 2
    },
@@ -25,8 +31,17 @@
    },
    "s-0b": {
     "q": 2
+   },
+   "s-0d": {
+    "q": 3
+   },
+   "s-0e": {
+    "q": 3
+   },
+   "s-0f": {
+    "q": 3
    }
   }
  },
- "sig": "2TPXOlQw19jV2egEg_ICuNGKbPHSBY1jCVJtM_Iw9arSe7clzEh8T53VSluXRrCgI_ZRy7V00oXRSWyXrm9Hpg"
+ "sig": "kDNnopgEgz4MCQWYNIKQikbmbSJbfkNzw1LZIiAuWfFA34o1Z2dnzlizfFdsdKb4rTGklKKiYhoCq_zbi7w_yQ"
 }
