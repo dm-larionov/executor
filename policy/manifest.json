@@ -1,0 +1,19 @@
+{
+ "v": 1,
+ "type": "manifest",
+ "kid": "Tzg7Kv4Jts_",
+ "alg": "ES256",
+ "body": {
+  "pid": "dup-main",
+  "seq": 1,
+  "iat": 1792476188,
+  "ttl": 604800,
+  "sid": "3VJUv-ikDqGD4WP8",
+  "kdf": {
+   "it": 50000
+  },
+  "buckets": 16,
+  "shards": {}
+ },
+ "sig": "VVNdQ5PXjvEGeDHSNfvVfpgh0b0oD_ry4oYufMWoXZFYz28exd7A2-UOdc9dhc9t5a0rffZHLqzjwKHBgKpyWQ"
+}
